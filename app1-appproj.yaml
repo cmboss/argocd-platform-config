@@ -7,8 +7,8 @@ spec:
   description: Project for App1 frontend and backend workloads
 
   sourceRepos:
-    - https://github.com/CloudWithVarJosh/app1-frontend-config.git
-    - https://github.com/CloudWithVarJosh/app1-backend-config.git
+    - https://github.com/cmboss/app1-frontend-config.git
+    - https://github.com/cmboss/app1-backend-config.git
 
   destinations:
     - namespace: app1-*
